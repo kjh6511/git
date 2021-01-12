@@ -1,0 +1,37 @@
+210112 사용자페이지 변경사항
+
+1. Controller-user 생성
+- approval
+- board
+- car
+- contract
+- employee
+- message
+- order
+- produce
+- product
+- workcenter
+
+2. js 변경
+- contract_list
+- contract
+- order -> order_buy로 이름 변경
+
+3. admin -erp.jsp 변경
+- erp_contract
+- erp_board
+- erp_approval
+- erp_order
+
+4. user -erp.jsp 생성
+- erp_approval
+- erp_board
+- erp_car
+- erp_contract
+- erp_employee
+- erp_message
+- erp_order
+- erp_produce
+- erp_product
+- erp_workcenter
+ 
